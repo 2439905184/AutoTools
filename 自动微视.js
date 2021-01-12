@@ -21,6 +21,7 @@ while (true) {
     {
         //点赞代码
         toast("执行点赞代码")
+        
         }
     scrollDown(0)
     console.log("控件滑动")
