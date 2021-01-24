@@ -1,0 +1,8 @@
+<title>快手点赞测试</title>
+<repeat>1</repeat>
+<icon></icon>
+<count>1</count>
+<log>0</log>
+<data>%7B%22actions%22%3A%5B%7B%22actionType%22%3A30%2C%22witeTime%22%3A%221000%22%2C%22param%22%3A%7B%22fileName%22%3A%22%5C%2Fstorage%5C%2Femulated%5C%2F0%5C%2FYiChuJiFaProject%5C%2FworkSpaceImage%5C%2Fimg_41C0D6A96AB2C3FF72433CE6A54E08F3.dddbbb%22%7D%7D%5D%2C%22variables%22%3A%5B%5D%7D</data>
+<status>0</status>
+<type>0</type>
